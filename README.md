@@ -7,16 +7,25 @@ We provide frame-level CNN features for the following datasets that have been us
 2. The [MSR-VTT](https://www.microsoft.com/en-us/research/publication/msr-vtt-a-large-video-description-dataset-for-bridging-video-and-language/) dataset, providing 10K web video clips and 200k natural sentences describing the visual content of the clips. The average number of sentences per clip is 20. From each clip we sampled frames uniformly, obtaining 305,462 frames in total. 
 3. The [TGIF](http://raingo.github.io/TGIF-Release/) dataset, containing 100K animated GIFs and 120K sentences describing visual content of the animated GIFs. From each gif we sampled frames uniformly, obtaining 1,045,268 frames in total. 
 
+## Downloads
+
+## Video features
+
 | CNN feature | Dimensionality | Downloads |
 |:----- | -----:|:----- |
-| ResNext-101 | 2,048 | IACC.3, MSR-VTT, TGIF |
+| ResNext-101 | 2,048 | [IACC.3 (27GB)](http://39.104.114.128/avs/iacc.3_ResNext-101.tar.gz), [MSR-VTT (2GB)](http://39.104.114.128/avs/msrvtt10k_ResNext-101.tar.gz), [TGIF (7GB)](http://39.104.114.128/avs/tgif_ResNext-101.tar.gz) |
+| ResNet-152 | 2,048 | [IACC.3 (26GB)](http://39.104.114.128/avs/iacc.3_ResNet-152.tar.gz), [MSR-VTT (2GB)](http://39.104.114.128/avs/msrvtt10k_ResNet-152.tar.gz), [TGIF (7GB)](http://39.104.114.128/avs/tgif_ResNet-152.tar.gz) |
+
+## Sentences 
+* [MSR-VTT (3MB)](http://39.104.114.128/avs/msrvtt10k_textdata.tar.gz)
+* [TGIF (2MB)](http://39.104.114.128/avs/tgif_textdata.tar.gz) 
 
 ## Citations
 
 If you find the feature data useful, please consider citing 
 
-* Xirong Li, Jianfeng Dong, Chaoxi Xu, Jing Cao, Renmin University of China and  Zhejiang Gongshang University at TRECVID 2018: Deep Cross-Modal Embeddings for Video-Text Retrieval,  TRECVID Workshop, 2018
+* Xirong Li, Jianfeng Dong, Chaoxi Xu, Jing Cao, Xun Wang, Gang Yang, Renmin University of China and  Zhejiang Gongshang University at TRECVID 2018: Deep Cross-Modal Embeddings for Video-Text Retrieval,  TRECVID Workshop, 2018
 
 ## Acknowledgments
 
-* We thank the [TRECVID](https://trecvid.nist.gov/) team, the [MSR-VTT](https://www.microsoft.com/en-us/research/publication/msr-vtt-a-large-video-description-dataset-for-bridging-video-and-language/) team, and the [TGIF](http://raingo.github.io/TGIF-Release/) team for the datasets, and the [UvA MediaMill](https://ivi.fnwi.uva.nl/isis/mediamill/) team for sharing their ResNext-101 model. 
+* We thank the [TRECVID](https://trecvid.nist.gov/) team, the [MSR-VTT](https://www.microsoft.com/en-us/research/publication/msr-vtt-a-large-video-description-dataset-for-bridging-video-and-language/) team, and the [TGIF](http://raingo.github.io/TGIF-Release/) team for the datasets, the [UvA MediaMill](https://ivi.fnwi.uva.nl/isis/mediamill/) team for sharing their ResNext-101 model, and the MXNet team for sharing their [ResNet-152](http://data.mxnet.io/models/imagenet-11k/resnet-152/) model. 
