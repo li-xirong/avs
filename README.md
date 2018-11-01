@@ -24,7 +24,7 @@ We provide frame-level CNN features for the following datasets that have been us
 
 If you find the feature data useful, please consider citing 
 
-* Xirong Li, Jianfeng Dong, Chaoxi Xu, Jing Cao, Xun Wang, Gang Yang, Renmin University of China and  Zhejiang Gongshang University at TRECVID 2018: Deep Cross-Modal Embeddings for Video-Text Retrieval,  TRECVID Workshop, 2018
+* Xirong Li, Jianfeng Dong, Chaoxi Xu, Jing Cao, Xun Wang, Gang Yang, [Renmin University of China and  Zhejiang Gongshang University at TRECVID 2018: Deep Cross-Modal Embeddings for Video-Text Retrieval](http://lixirong.net/pub/trecvid2018-rucmm.pdf),  TRECVID Workshop, 2018
 
 ## Acknowledgments
 
