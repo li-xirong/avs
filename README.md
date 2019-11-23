@@ -37,8 +37,11 @@ Besides, we provide frame-level CNN features for the following datasets that hav
 
 If you find the feature data useful, please consider citing 
 
-* Xirong Li, Jianfeng Dong, Chaoxi Xu, Jing Cao, Xun Wang, Gang Yang, [Renmin University of China and  Zhejiang Gongshang University at TRECVID 2018: Deep Cross-Modal Embeddings for Video-Text Retrieval](http://lixirong.net/pub/trecvid2018-rucmm.pdf),  TRECVID Workshop, 2018 [[slides](https://www-nlpir.nist.gov/projects/tvpubs/tv18.slides/rucmm.avs.slides.pdf)]
+* Xirong Li, Jianfeng Dong, Chaoxi Xu, Jing Cao, Xun Wang, Gang Yang, [Renmin University of China and  Zhejiang Gongshang University at TRECVID 2018: Deep Cross-Modal Embeddings for Video-Text Retrieval](http://lixirong.net/pub/trecvid2018-rucmm.pdf),  TRECVID Workshop 2018 [[slides](https://www-nlpir.nist.gov/projects/tvpubs/tv18.slides/rucmm.avs.slides.pdf)]
+
+* Xirong Li, Chaoxi Xu, Gang Yang, Zhineng Chen, Jianfeng Dong, [W2VV++: Fully Deep Learning for Ad-hoc Video Search](http://lixirong.net/pub/mm2019-w2vvpp.pdf), ACM Multimedia 2019
 
 ## Acknowledgments
 
 * We thank the [TRECVID](https://trecvid.nist.gov/) team, the [MSR-VTT](https://www.microsoft.com/en-us/research/publication/msr-vtt-a-large-video-description-dataset-for-bridging-video-and-language/) team, the [TGIF](http://raingo.github.io/TGIF-Release/) team, the [MSVD](http://www.cs.utexas.edu/users/ml/clamp/videoDescription/) team for the datasets, the [UvA MediaMill](https://ivi.fnwi.uva.nl/isis/mediamill/) team for sharing their ResNext-101 model, and the MXNet team for sharing their [ResNet-152](http://data.mxnet.io/models/imagenet-11k/resnet-152/) model. 
+* This project was supported by the National Natural Science Foundation of China (No. 61672523).
