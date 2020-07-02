@@ -1,0 +1,30 @@
+561 exactly two men at a conference or meeting table talking in a room
+562 a person playing keyboard and singing indoors
+563 one or more people on a moving boat in the water
+564 a person in front of a blackboard talking or writing in a classroom 
+565 people waving flags outdoors
+566 a dog playing outdoors
+567 people performing or dancing outdoors at nighttime
+568 one or more people hiking
+569 people standing in line outdoors 
+570 a projection screen 
+571 any type of Christmas decorations
+572 two or more cats both visible simultaneously
+573 medical personnel performing medical tasks
+574 two people fighting
+575 a person pouring liquid from one container to another
+576 a person holding his hand to his face
+577 two or more people wearing coats
+578 a person in front of or inside a garage
+579 one or more people in a balcony
+580 an elevator from the outside or inside view
+581 a person sitting on a wheelchair
+582 a person climbing an object (such as tree, stairs, barrier)
+583 a person holding, talking or blowing into a horn
+584 a person lying on a bed
+585 a person with a cigarette
+586 a truck standing still while a person is walking beside or in front of it
+587 a person looking out or through a window
+588 a person holding or attached to a rope
+589 car driving scenes in a rainy day
+590 a person where a gate is visible in the background

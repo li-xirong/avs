@@ -1,0 +1,30 @@
+531 one or more people eating food at a table indoors
+532 one or more people driving snowmobiles in the snow
+533 a man sitting down on a couch in a room
+534 a person talking behind a podium wearing a suit outdoors during daytime
+535 a person standing in front of a brick building or wall
+536 children playing in a playground
+537 one or more people swimming in a swimming pool
+538 a crowd of people attending a football game in a stadium
+539 an adult person running in a city street
+540 vegetables and/or fruits
+541 a newspaper
+542 at least two planes both visible
+543 a person communicating using sign language
+544 a child or group of children dancing
+545 people marching in a parade
+546 a male person falling down
+547 a person with a gun visible
+548 a chef or cook in a kitchen
+549 a blond female indoors
+550 a map indoors
+551 a person riding a horse including horse-drawn carts
+552 a person wearing any kind of hat
+553 a person talking on a cell phone
+554 a person holding or operating a tv or movie camera
+555 a person holding or opening a briefcase
+556 a person wearing a blue shirt
+557 person holding, throwing or playing with a balloon 
+558 a person wearing a scarf
+559 a man and woman inside a car
+560 a person holding, opening, closing or handing over a box

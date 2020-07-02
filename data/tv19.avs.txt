@@ -1,0 +1,30 @@
+611 a drone flying
+612 a truck being driven in the daytime
+613 a door being opened by someone
+614 a woman riding or holding a bike outdoors
+615 a person smoking a cigarette outdoors
+616 a woman wearing a red dress outside in the daytime
+617 one or more picnic tables outdoors
+618 coral reef underwater
+619 one or more art pieces on a wall
+620 a person with a painted face or mask
+621 person in front of a graffiti painted on a wall
+622 a person in a tent
+623 a person wearing shorts outdoors
+624 a person in front of a curtain indoors
+625 a person wearing a backpack
+626 a race car driver racing a car
+627 a person holding a tool and cutting something
+628 a man and a woman holding hands
+629 a black man singing
+630 a man and a woman hugging each other
+631 a man and a woman dancing together indoors
+632 a person running in the woods
+633 a group of people walking on the beach
+634 a woman and a little boy both visible during daytime
+635 a bald man
+636 a man and a baby both visible
+637 a shirtless man standing up or walking outdoors
+638 one or more birds in a tree
+639 inside views of a small airplane flying
+640 a red hat or cap

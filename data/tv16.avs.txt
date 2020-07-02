@@ -1,0 +1,30 @@
+501 a person playing guitar outdoors
+502 a man indoors looking at camera where a bookcase is behind him
+503 a person playing drums indoors
+504 a diver wearing diving suit and swimming under water
+505 a person holding a poster on the street at daytime
+506 the 43rd president George W. Bush sitting down talking with people indoors
+507 a choir or orchestra and conductor performing on stage
+508 one or more people walking or bicycling on a bridge during daytime
+509 a crowd demonstrating in a city street at night
+510 a sewing machine
+511 destroyed buildings
+512 palm trees 
+513 military personnel interacting with protesters
+514 soldiers performing training or other military maneuvers
+515 a person jumping
+516 a man shake hands with a woman
+517 a policeman where a police car is visible
+518 one or more people at train station platform
+519 two or more men at a beach scene
+520 any type of fountains outdoors
+521 a man with beard talking or singing into a microphone  
+522 a person sitting down with a laptop visible
+523 one or more people opening a door and exiting through it
+524 a man with beard and wearing white robe speaking and gesturing to camera
+525 a person holding a knife
+526 a woman wearing glasses
+527 a person drinking from a cup, mug, bottle, or other container
+528 a person wearing a helmet
+529 a person lighting a candle
+530 people shopping
